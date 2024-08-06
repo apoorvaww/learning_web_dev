@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+.nav-left p{
+    font-family: "Playwrite HR", cursive;
+    font-weight: 700;
+}
